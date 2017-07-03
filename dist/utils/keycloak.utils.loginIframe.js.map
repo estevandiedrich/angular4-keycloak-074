@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/utils/keycloak.utils.loginIframe.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;;;;;;GAeG;;AAGH;;GAEG;AACH;IAII,qBAAmB,MAAe,EAAS,WAAgB,EAAS,QAAgB;QAAjE,WAAM,GAAN,MAAM,CAAS;QAAS,gBAAW,GAAX,WAAW,CAAK;QAAS,aAAQ,GAAR,QAAQ,CAAQ;IAEpF,CAAC;IACL,kBAAC;AAAD,CAPA,AAOC,IAAA;AAPY,kCAAW","file":"keycloak.utils.loginIframe.js","sourceRoot":""}
